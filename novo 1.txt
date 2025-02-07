@@ -1,0 +1,101 @@
+
+____________________________
+COMO COLOCAR SEU SITE NO AR
+____________________________
+
+
+________________________________
+COISAS QUE VOCE DEVE SABER ANTES
+________________________________
+
+___________________________________________________________________________
+1 - Voce deve ter seu projeto em uma pasta
+2 - Voce deve ter O Github instalado que vc usara ele pra colocar as coisas
+___________________________________________________________________________
+
+
+______________________________________________
+COISAS QUE DEVEM SER BAIXADAS PRA ESSE CURSO
+______________________________________________
+
+____________________________
+1 - GITHUB / GITHUB PAGES   
+2 - GIT   
+3 - GITHUB DESKETOP
+____________________________
+
+
+
+
+_________________________________________________________________________________________________________________________________________________________
+PRIMEIRA COISA QUE VOCE DEVE SABER E :
+
+
+O que é hospedagem?
+Um site é composto por um conjunto de arquivos que são carregados pelo navegador 
+e exibidos na forma que comumente vemos nas páginas na web. Esses arquivos são códigos, textos, 
+imagens, arquivos de fonte, etc. que juntos compõem o seu projeto. Eles precisam 
+estar guardados em um local, que chamamos de servidor.
+Quando você abre sua página enquanto está desenvolvendo, o servidor 
+é o seu próprio computador, que contém os arquivos. 
+Mas, para colocar seu site no ar, é preciso realizar o que chamamos de hospedagem.
+_________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+SEGUNDA COISA QUE VOCE DEVE SABER E :
+
+
+O que é o github pages?
+O Github Pages é o serviço de hospedagem de sites estáticos do Github. Ele usa arquivos HTML, CSS e Javascript diretamente de um repositório, executa
+ os arquivos por meio de um processo e publica um site. Nele, é possível hospedar seu site, de sua empresa ou organização, ou de um projeto
+ que você queira mostrar para seu time.
+Também é possível publicar seu site de um repositório público ou privado, com o domínio github.io ou mesmo personalizar 
+seu domínio. Se quiser saber mais sobre domínio e como funcionam as páginas web é só clicar aqui.
+Agora que entendemos o que é hospedagem e o Github Pages, já estamos prontos para colocar nosso site no ar.
+__________________________________________________________________________________________________________________________________________________________
+
+____________________________
+COLOCANDO SEU PROJETO NO AR 
+____________________________
+
+___________________________________________________________________________
+Antes de criar seu site, você precisa ter um repositório para ele no Github. 
+Se você ainda não sabe como criar um repositório no Github
+___________________________________________________________________________
+
+
+
+
+___________________________________________________________________________________________________
+PASSO NUMERO 1:
+____________________________________________________________________________________________________
+Em Github, acesse o repositório do seu site. Se você usa o 
+Github Free, é importante que seu repositório esteja como público. Vá em configurações (Settings). 
+Na seção code e automation, clique em Pages. Na opção Source, abra o menu suspenso
+e selecione uma fonte de publicação, ou seja, a branch que desejar.
+____________________________________________________________________________________________________
+
+
+
+____________________________________________________________________________________________________
+PASSO NUMERO 2:
+____________________________________________________________________________________________________
+De forma opcional, você pode selecionar uma pasta para sua fonte de publicação. Para isso, clique
+no segundo menu suspenso que aparece depois do passo 1 
+e selecione uma pasta da sua fonte de publicação. Com isso feito, é só Salvar.
+____________________________________________________________________________________________________
+
+
+
+
+____________________________________________________________________________________________________
+PASSO NUMERO 3:
+_____________________________________________________________________________________________________
+Aguarde enquanto o Github Pages conclui o processo de colocar seu site no ar. Ele vai lhe dar uma url 
+com domínio github.io e ela estará pronta para ser acessada
+quando aparecer um sinal de OK e a cor verde ao redor da url. Depois disso, é só acessar sua página!
+_____________________________________________________________________________________________________
