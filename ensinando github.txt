@@ -1,0 +1,9 @@
+Passo a passo GIT
+
+Criar repositorio no GitHub com o nome dos cursos com ao invés de espaços separados por -  (exemplo: curso-html-parte-1)
+Clonar o repositorio na pasta workspace
+Copiar arquivos para dentro da pasta
+Efetuar o preparo dos arquivos com git add . 
+Commitar os arquivos com mensagem no commit descrevendo git commit -m "{mensagem}"
+Enviar arquivos para o github com o comando git push
+Conferir as alterações no github
